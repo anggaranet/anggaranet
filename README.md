@@ -20,6 +20,13 @@ My GitHub account will have a few things, like:
       - **PHP**
       - **JavaScript**
       - **Python**
+  - **Database**
+      - **SQL**
+        - **MySQL/MariaDB**
+        - **PostgreSQL**
+        - **SQLite**
+      - **NoSQL**
+        - **MongoDB**
 - **Projects**: (this will include mini, medium, and big-sized projects)
   - **Web Application**
   - **Desktop Application**
