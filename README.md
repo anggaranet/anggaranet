@@ -1,4 +1,4 @@
-### Hello, I am  <a href="https://x.com/anggaranet" target="_blank">trying a plain html</> (Gara) 👋
+### Hello, I am  [@anggaranet](https://x.com/anggaranet) (Gara) 👋
 
 I'm a software developer from Indonesia. 🇮🇩
 
