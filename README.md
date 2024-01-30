@@ -6,13 +6,19 @@ I am interested in antifragility and accessibility (#A11y)
 
 - 📫 How to reach me: anggaranet@proton.me
 - 😄 Pronouns: he/him
-- 💻 Programming languages: C, C++, JavaScript, Python, PHP
+- 💻 Programming languages: C, C++, JavaScript, Python, PHP, Bash
 
 My GitHub account will have a few things, like:
 
 - **Training**: (kinda like a journal tracking my workout progress)
   - **Retro**
+      - **Bash**
+      - **C**
+      - **C++**
   - **Modern**
+      - **PHP**
+      - **JavaScript**
+      - **Python**
 - **Projects**: (this will include mini, medium, and big-sized projects)
   - **Web Application**
   - **Desktop Application**
