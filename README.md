@@ -10,7 +10,7 @@ I am interested in antifragility and accessibility (#A11y)
 
 My GitHub account will have a few things, like:
 
-- **Practice**: (kinda like a journal tracking my workout progress)
+- **Training**: (kinda like a journal tracking my workout progress)
 - **Projects**: (this will include mini, medium, and big-sized projects)
 
 
