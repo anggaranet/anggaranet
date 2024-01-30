@@ -14,6 +14,9 @@ My GitHub account will have a few things, like:
   - **Retro**
   - **Modern**
 - **Projects**: (this will include mini, medium, and big-sized projects)
+  - **Web Application**
+  - **Desktop Application**
+  - **Mobile Application**
 
 
 
