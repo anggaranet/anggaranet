@@ -1,34 +1,8 @@
-### Hello, I am  [@anggaranet](https://x.com/anggaranet) (Gara) 👋
+### I am  [@anggaranet](https://x.com/anggaranet) (Gara) 👋
 
-I'm a software developer from Indonesia. 🇮🇩
+Developing software. 
+from Indonesia. 🇮🇩
+Interested in antifragility and accessibility (#A11y)
 
-I am interested in antifragility and accessibility (#A11y)
-
-- 📫 How to reach me: anggaranet@proton.me
-- 😄 Pronouns: he/him
+- 📫 email: anggaranet@proton.me
 - 💻 Programming languages: C, JavaScript, Python
-
-My GitHub account will have a few things, like:
-
-- **Training**: (kinda like a journal tracking my workout progress)
-  - **Data Structure & Algorithm**
-  - **Retro**
-      - **C**
-  - **Modern**
-      - **JavaScript**
-      - **Python**
-  - **Database**
-      - **SQL**
-        - **MySQL/MariaDB**
-        - **PostgreSQL**
-        - **SQLite**
-      - **NoSQL**
-        - **MongoDB**
-- **Projects**: (this will include mini, medium, and big-sized projects)
-  - **Web Application**
-  - **Desktop Application**
-  - **Mobile Application**
-
-
-
-
