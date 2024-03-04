@@ -2,4 +2,4 @@
 
 Developing software. 
 - 📫 email: anggaranet@proton.me
-- 💻 Programming languages: C, JavaScript, Python
+- 💻 Programming languages: C, JavaScript, Python, Assembly
