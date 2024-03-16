@@ -1,4 +1,4 @@
 ### I am  [@anggaranet](https://x.com/anggaranet) (Gara) 👋
 
-Developing software. 
+Web Dev/Game Dev
 - 📫 email: anggaranet@proton.me
